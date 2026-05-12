@@ -6,9 +6,9 @@ numpy = 2.4.4
 scikit learn = 1.8.0
 matplolib = 3.10.9
 seaborn = 0.13.2
-plotiy = 6.7.0
+plotly = 6.7.0
 pickle
 sqlite3
 hashlib
-ploty.express
+plotly.express
 datetime 
