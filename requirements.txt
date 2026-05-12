@@ -1,8 +1,7 @@
 
-scikit learn = 1.2.0
-streamlit = 1.57.0
-plotly 
-numpy = 2.4.4 
-pandas = 3.0.2
-scikit-learn = 1.2.0
-streamlit-option-menu = 0.4.0
+streamlit
+numpy
+pandas
+scikit-learn
+plotly
+streamlit-option-menu
