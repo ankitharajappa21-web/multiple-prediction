@@ -12,7 +12,7 @@ import numpy as np
 import sqlite3
 import hashlib
 import pandas as pd
-#import plotly.express as px
+import plotly.express as px
 from datetime import datetime
 from streamlit_option_menu import option_menu
 
